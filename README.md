@@ -1,1 +1,1 @@
-# AI-geberated-text-detector
+# AI-generated-text-detector
